@@ -1,0 +1,8 @@
+#user-name{
+  color: #00a9cc;
+  text-shadow: 2px 1px 3px rgb(27, 27, 27),
+  3px 1px 2px yellow;
+  margin-top: 4%;
+  padding-top: 17px;
+  font-size: 65px;
+}

@@ -1,0 +1,33 @@
+#video{
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+#video-title{
+position: absolute;
+z-index: 2;
+margin-top: -33%;
+font-size: 60px;
+margin-left: 10%;
+color: #00a9cc;
+text-shadow: 2px 1px 3px black,
+3px 1px 2px yellow;
+background-color: rgba(168, 166, 162, 0.7);
+width: 80%;
+height: 10vh;
+border-radius: 10px;
+}
+#logo{
+  color: #00a9cc;
+  border-radius: 10px;
+  text-shadow: 2px 1px 3px black,
+3px 1px 2px yellow;
+  position: absolute;
+  z-index: 2;
+  margin-top: -11%;
+  background-color: rgba(168, 166, 162, 0.7);
+width: 28%;
+height: 7vh;
+margin-left: 36.5%;
+
+}

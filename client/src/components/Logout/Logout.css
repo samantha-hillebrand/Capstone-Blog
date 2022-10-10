@@ -1,0 +1,33 @@
+#bg-color{
+  background-color: black;
+  height: 87.3vh;
+}
+#bg-img{
+  width: 100%;
+  height: 55vh;
+}
+#padding{
+  padding: 5%;
+}
+#login-title{
+  color: #00a9cc;
+  text-shadow: 1px 1px 2px rgb(230, 180, 17);
+  margin-top: -1%;
+}
+#login{
+  border-radius: 5px;
+  color:black;
+  border-color: #00a9cc;
+  margin-top: 9px;
+  background-color: rgb(190, 187, 187);
+}
+#login:hover{
+  background-color: #00a9cc;
+  color: black;
+}
+#signup-link{
+  text-decoration: none;
+}
+.input{
+  margin-top: 1%;
+}

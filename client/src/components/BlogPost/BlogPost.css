@@ -1,0 +1,14 @@
+#start-blog{
+ margin-top: 3%;
+ text-shadow: 2px 1px 3px #00a9cc;
+}
+#blog-title{
+  width: 55%;
+  margin-left: 23%;
+}
+#content{
+  margin-top: 1%;
+}
+.blog-btn{
+margin: 1% 0 1% 0;
+}

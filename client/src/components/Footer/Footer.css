@@ -1,0 +1,10 @@
+#title-footer{
+font-family: georgia;
+font-size: 40px;
+/* margin-top: 1%; */
+color: #00a9cc;
+text-shadow: 2px 1px 3px black;
+}
+#footer{
+  margin-top: 1%;
+}

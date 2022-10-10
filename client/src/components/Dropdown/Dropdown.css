@@ -1,0 +1,16 @@
+#spots{
+  text-decoration: underline;
+  font-size: 30px;
+}
+#location{
+ margin-top: 1%;
+ border-radius: 10px;
+  background-color: rgba(128, 128, 128, 0.3);
+  width: 15%;
+  margin-left: 42.5%;
+  height: 4vh;
+}
+.a{
+  color: black;
+  text-shadow: 2px 1px 3px #00a9cc;
+}
